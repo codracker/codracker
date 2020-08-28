@@ -16,3 +16,6 @@ Gist😄:
                             3. <a href = "mailto:muskaanjain246@gmail.com">Get in touch </a>
 - ✍️ Blog: .... [Check It Out!](https://medium.com/@muskaanjain246_67321/challenges-faced-by-networks-during-pandemic-covid-19-142acfc9e4f0)
 - ⚡ Fun fact: ...🚗 Wanderlust
+
+###
+P.S ~ I am a strong believer of "Power of Observation Leads to Innovation"! So, I Observe everything very meticulously.
