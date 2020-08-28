@@ -1,7 +1,7 @@
 ### Namaste :pray: , I'm Muskaan!
 
 
-Gist😄 :
+Gist😄:
 
 - 🔭 I’m am an inquisitve hackathon freak,eager to learn and code. 
 - 🌱 I’m interested in growing myself in the field of Data Science
@@ -12,4 +12,4 @@ Gist😄 :
                             2. [Twitter](https://twitter.com/j_Muskaan_)
                             3. <a href = "mailto:muskaanjain246@gmail.com">Get in touch </a>
 - ✍️ Blog: .... [Medium](https://medium.com/@muskaanjain246_67321/challenges-faced-by-networks-during-pandemic-covid-19-142acfc9e4f0)
-- ⚡ Fun fact: ...Always up for discussion
+- ⚡ Fun fact: ...Always up for discussion!
