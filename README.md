@@ -1,6 +1,9 @@
 ### Namaste :pray: , I'm Muskaan!
 
 
+[![HitCount](http://hits.dwyl.com/codracker/codracker.svg)](http://hits.dwyl.com/codracker/codracker)
+
+
 Gist😄:
 
 - 👩‍💻 I’m am an inquisitve hackathon freak,eager to learn and code. 
