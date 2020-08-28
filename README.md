@@ -11,5 +11,5 @@ Gist😄:
 - 📫 How to reach me: ...  1. [LinkedIn](https://www.linkedin.com/in/muskaanjain246/) 
                             2. [Twitter](https://twitter.com/j_Muskaan_)
                             3. <a href = "mailto:muskaanjain246@gmail.com">Get in touch </a>
-- ✍️ Blog: .... [Medium](https://medium.com/@muskaanjain246_67321/challenges-faced-by-networks-during-pandemic-covid-19-142acfc9e4f0)
+- ✍️ Blog: .... [Check It Out!](https://medium.com/@muskaanjain246_67321/challenges-faced-by-networks-during-pandemic-covid-19-142acfc9e4f0)
 - ⚡ Fun fact: ...🚗 Wanderlust
