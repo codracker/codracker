@@ -1,8 +1,7 @@
 ### Namaste :pray: , I'm Muskaan!
 
 
-
-Here is in crisp all about me :
+Gist😄 :
 
 - 🔭 I’m am an inquisitve hackathon freak,eager to learn and code. 
 - 🌱 I’m interested in growing myself in the field of Data Science
