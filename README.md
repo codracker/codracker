@@ -2,9 +2,9 @@
 
 
 
-Here is my introduction :
+Here is in crisp all about me :
 
-- 🔭 I’m am an inquisitve person , eager to learn and code. 
+- 🔭 I’m am an inquisitve hackathon freak,eager to learn and code. 
 - 🌱 I’m interested in growing myself in the field of Data Science
 - 👯 I’m looking to  ...
 - 🤔 I’m looking for organization to work in and expand the skills
@@ -13,5 +13,5 @@ Here is my introduction :
                             2. [Twitter](https://twitter.com/j_Muskaan_)
                             3. [Gmail](muskaanjain246@gmail.com)
 - ✍️ Blog: .... [Medium](https://medium.com/@muskaanjain246_67321/challenges-faced-by-networks-during-pandemic-covid-19-142acfc9e4f0)
-- ⚡ Fun fact: ... Always up for discussion!
+- ⚡ Fun fact: ...Always up for discussion
 -->
