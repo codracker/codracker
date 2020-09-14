@@ -1,8 +1,6 @@
 ### Namaste :pray: , I'm Muskaan!
 
 
-[![HitCount](http://hits.dwyl.com/codracker/codracker.svg)](http://hits.dwyl.com/codracker/codracker)
-
 
 Gist😄:
 
