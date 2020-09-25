@@ -6,7 +6,7 @@ Gist😄:
 
 - 👩‍💻 I’m am an inquisitve hackathon freak,eager to learn and code. 
 - 🌱 I’m interested in growing myself in the field of Data Science.
-- 💻 I’m currently learning Azure.
+- 💻 I’m currently learning Advanced ML.
 - 🤔 I’m looking for organization to work in and expand the skills.
 - 💬 Ask me about ... Python, Machine Learning.
 - 📫 How to reach me: ...  1. [LinkedIn](https://www.linkedin.com/in/muskaanjain246/) 
